@@ -1,0 +1,7 @@
+https://www.genuitec.com/products/angular-ide/
+
+JWT
+	http://anexsoft.com/p/126/implementacion-de-json-web-token-con-php
+	https://coderwall.com/p/8wrxfw/goodbye-php-sessions-hello-json-web-tokens
+
+http://anexsoft.com/p/132/curso-de-api-rest-php-desde-cero-hasta-un-proyecto-profesional
